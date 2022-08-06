@@ -20,7 +20,7 @@
     ```
 1. Clone this repository to `Vitis-AI` folder
     ```shell
-    $ git clone
+    $ git clone https://github.com/qixingzhang/SummerSchool2022-Vitis-AI.git
     ```
 1. Launch Vitis AI
     ```shell
