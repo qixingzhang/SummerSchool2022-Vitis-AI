@@ -2,8 +2,8 @@
 
 ## Install Vitis AI
 1. Install docker engine
-    * Official site: [https://docs.docker.com/engine/install/]()
-    * For Ubuntu: [https://docs.docker.com/engine/install/ubuntu/]()
+    * Official site: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+    * For Ubuntu: [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
 1. Pull Vitis AI 1.4 image
     ```
     sudo docker pull xilinx/vitis-ai:1.4.916
@@ -64,7 +64,7 @@
 
 ## Deploy on edge board using DPU-PYNQ
 1. Boot the board with PYNQ v2.7 image
-    * Image download link: [http://www.pynq.io/board.html]()
+    * Image download link: [http://www.pynq.io/board.html](http://www.pynq.io/board.html)
 1. Install python package
     ```shell
     $ sudo pip3 install pynq-dpu --no-build-isolation
