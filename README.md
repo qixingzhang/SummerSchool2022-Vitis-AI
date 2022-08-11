@@ -74,6 +74,6 @@
     $ cd $PYNQ_JUPYTER_NOTEBOOKS
     ```
     ```shell
-    $ pynq get-notebooks pynq-dpu –p .
+    $ pynq get-notebooks -p . pynq-dpu
     ```
 1. Run the `dpu_mnist_classifier` notebook in `pynq-dpu` folder. You can upload your own `.xmodel` file to this folder and replace the existing `dpu_mnist_classifier.xmodel`
